@@ -1,0 +1,21 @@
+.text{
+    text-align: center;
+}
+/* .back-color{
+    background-color: #222f3d;
+} */
+.container{
+    height: 100%;
+    width:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 20%;
+}
+.calculator{
+    background-color: #222f3d;
+    padding: 20px;
+    border-radius: 10px;
+}
+
